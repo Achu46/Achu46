@@ -16,50 +16,17 @@ I'm a passionate developer with a keen interest in building web applications and
 
 ## 🛠️ Technologies & Tools
 
- <tr>
-            <td style="padding: 10px;">
-                <img src="https://skillicons.dev/icons?i=html5" alt="HTML5" width="60"
-                     style="transition: transform 0.3s ease-in-out;"
-                     onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'">
-            </td>
-            <td style="padding: 10px;">
-                <img src="https://skillicons.dev/icons?i=css3" alt="CSS3" width="60"
-                     style="transition: transform 0.3s ease-in-out;"
-                     onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'">
-            </td>
-            <td style="padding: 10px;">
-                <img src="https://skillicons.dev/icons?i=javascript" alt="JavaScript" width="60"
-                     style="transition: transform 0.3s ease-in-out;"
-                     onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'">
-            </td>
-            <td style="padding: 10px;">
-                <img src="https://skillicons.dev/icons?i=java" alt="Java" width="60"
-                     style="transition: transform 0.3s ease-in-out;"
-                     onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'">
-            </td>
-            <td style="padding: 10px;">
-                <img src="https://skillicons.dev/icons?i=react" alt="React" width="60"
-                     style="transition: transform 0.3s ease-in-out;"
-                     onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'">
-            </td>
-        </tr>
-        <tr>
-            <td style="padding: 10px;">
-                <img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" width="60"
-                     style="transition: transform 0.3s ease-in-out;"
-                     onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'">
-            </td>
-            <td style="padding: 10px;">
-                <img src="https://skillicons.dev/icons?i=git" alt="Git" width="60"
-                     style="transition: transform 0.3s ease-in-out;"
-                     onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'">
-            </td>
-            <td style="padding: 10px;">
-                <img src="https://skillicons.dev/icons?i=github" alt="GitHub" width="60"
-                     style="transition: transform 0.3s ease-in-out;"
-                     onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'">
-            </td>
-        </tr>
+<p align="center">
+    <img src="https://skillicons.dev/icons?i=html5" alt="HTML5" width="90" />
+    <img src="https://skillicons.dev/icons?i=css3" alt="CSS3" width="90" />
+    <img src="https://skillicons.dev/icons?i=javascript" alt="JavaScript" width="90" />
+    <img src="https://skillicons.dev/icons?i=java" alt="Java" width="90" />
+    <img src="https://skillicons.dev/icons?i=react" alt="React" width="90" />
+    <img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" width="90" />
+    <img src="https://skillicons.dev/icons?i=git" alt="Git" width="90" />
+    <img src="https://skillicons.dev/icons?i=github" alt="GitHub" width="90" />
+</p>
+
 ---
 
 ## 📈 GitHub Stats
@@ -94,4 +61,3 @@ Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/mohamed-a
 ---
 
 *Let's build something amazing together!*
-
