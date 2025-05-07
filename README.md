@@ -1,78 +1,135 @@
-# 👋 Hello, I'm **Achu**!  
+<div align="center">
+  <a href="https://github.com/Achu46">
+    <img src="https://avatars.githubusercontent.com/u/91871103?v=4" width="150" style="border-radius:50%;"/>
+  </a>
+  <h1 style="font-family: 'Arial', sans-serif; color: #333; font-size: 2.5em;">Achu A</h1>
+  <p style="font-family: 'Verdana', sans-serif; color: #555; font-size: 1.2em;">Software Development Engineer</p>
 
-🎓 Aspiring Developer from Erode, India  
-🌐 Portfolio: [achu.neocities.org](https://achu.neocities.org/Portfolio/Mohamed_Asfaque.A/PORTFOLIO/)  
-💼 LinkedIn: [mohamed-asfaque-a-7a2649299](https://www.linkedin.com/in/mohamed-asfaque-a-7a2649299/)  
-💻 LeetCode: [Achu_46](https://leetcode.com/u/Achu_46/)  
-📸 Instagram: [@_achu_46_](https://www.instagram.com/_achu_46_/)
+  <a href="https://www.linkedin.com/in/achu-ajayan-49699722a/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Profile">
+  </a>
+  <a href="https://twitter.com/Achu46" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Profile">
+  </a>
+  <a href="https://www.instagram.com/achu._.ajayan/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Profile">
+  </a>
+</div>
 
----
+<div align="center">
+  <h2 style="font-family: 'Arial', sans-serif; color: #2c3e50; font-size: 2em; border-bottom: 2px solid #3498db; padding-bottom: 5px;">About Me</h2>
+  <p style="font-family: 'Calibri', sans-serif; color: #7f8c8d; font-size: 1.1em; line-height: 1.6;">
+    I'm a passionate Software Development Engineer dedicated to creating innovative and efficient solutions. I love tackling challenging problems and continuously learning new technologies. My goal is to make a positive impact through software development.
+  </p>
+</div>
 
-## 🚀 About Me
+<div align="center">
+  <h2 style="font-family: 'Arial', sans-serif; color: #2c3e50; font-size: 2em; border-bottom: 2px solid #3498db; padding-bottom: 5px;">Tech Stack</h2>
+  <p style="font-family: 'Calibri', sans-serif; color: #7f8c8d; font-size: 1.1em;">
+    Here are some of the technologies I work with:
+  </p>
+  <table align="center">
+    <tr>
+      <td style="padding: 10px;">
+        <img src="https://skillicons.dev/icons?i=java" alt="Java" width="50">
+      </td>
+      <td style="padding: 10px;">
+        <img src="https://skillicons.dev/icons?i=spring" alt="Spring" width="50">
+      </td>
+       <td style="padding: 10px;">
+        <img src="https://skillicons.dev/icons?i=springboot" alt="Spring Boot" width="50">
+      </td>
+      <td style="padding: 10px;">
+        <img src="https://skillicons.dev/icons?i=javascript" alt="JavaScript" width="50">
+      </td>
+      <td style="padding: 10px;">
+        <img src="https://skillicons.dev/icons?i=react" alt="React" width="50">
+      </td>
+    </tr>
+    <tr>
+      <td style="padding: 10px;">
+        <img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" width="50">
+      </td>
+      <td style="padding: 10px;">
+        <img src="https://skillicons.dev/icons?i=express" alt="Express.js" width="50">
+      </td>
+      <td style="padding: 10px;">
+        <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" width="50">
+      </td>
+      <td style="padding: 10px;">
+        <img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" width="50">
+      </td>
+      <td style="padding: 10px;">
+        <img src="https://skillicons.dev/icons?i=git" alt="Git" width="50">
+      </td>
+    </tr>
+  </table>
+</div>
 
-I'm a passionate developer with a keen interest in building **web applications** and exploring new technologies. I enjoy solving problems, continuously learning, and improving my skills. I specialize in creating intuitive and efficient solutions, and I love collaborating on projects that make a difference. 
+<div align="center">
+  <h2 style="font-family: 'Arial', sans-serif; color: #2c3e50; font-size: 2em; border-bottom: 2px solid #3498db; padding-bottom: 5px;">GitHub Stats</h2>
+  <a href="https://github.com/Achu46">
+    <img src="https://github-readme-stats.vercel.app/api?username=Achu46&show_icons=true&theme=radical" alt="GitHub Stats">
+  </a>
+  <br/>
+  <a href="https://github.com/Achu46">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Achu46&theme=radical" alt="GitHub Streak"/>
+  </a>
+</div>
 
----
+<div align="center">
+  <h2 style="font-family: 'Arial', sans-serif; color: #2c3e50; font-size: 2em; border-bottom: 2px solid #3498db; padding-bottom: 5px;">LeetCode Stats</h2>
+  <a href="https://leetcode.com/Achu46/">
+    <img src="https://leetcard.jacoblin.cool/?username=Achu46&theme=dark" alt="LeetCode Stats"/>
+  </a>
+</div>
 
-## 🛠️ Technologies & Tools
+<div align="center">
+  <h2 style="font-family: 'Arial', sans-serif; color: #2c3e50; font-size: 2em; border-bottom: 2px solid #3498db; padding-bottom: 5px;">Projects</h2>
+  <p style="font-family: 'Calibri', sans-serif; color: #7f8c8d; font-size: 1.1em;">
+    Here are a few of my highlighted projects:
+  </p>
+  <table align="center">
+    <tr>
+      <td style="padding: 20px; border: 1px solid #ddd; border-radius: 8px; margin: 10px;">
+        <h3 style="font-family: 'Arial', sans-serif; color: #34495e; font-size: 1.2em;">Project 1: Inventory Management System</h3>
+        <p style="font-family: 'Calibri', sans-serif; color: #7f8c8d; font-size: 1em;">
+          A web application for managing inventory, built with Spring Boot and React.
+        </p>
+        <a href="https://github.com/Achu46" style="font-family: 'Arial', sans-serif; color: #3498db; font-size: 1em; text-decoration: none;">View on GitHub</a>
+      </td>
+      <td style="padding: 20px; border: 1px solid #ddd; border-radius: 8px; margin: 10px;">
+        <h3 style="font-family: 'Arial', sans-serif; color: #34495e; font-size: 1.2em;">Project 2: E-commerce Website</h3>
+        <p style="font-family: 'Calibri', sans-serif; color: #7f8c8d; font-size: 1em;">
+          A full-stack e-commerce platform with user authentication and shopping cart functionality.
+        </p>
+        <a href="https://github.com/Achu46" style="font-family: 'Arial', sans-serif; color: #3498db; font-size: 1em; text-decoration: none;">View on GitHub</a>
+      </td>
+    </tr>
+  </table>
+</div>
 
-<p>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black" alt="React" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" alt="GitHub" />
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white" alt="VS Code" />
-  <img src="https://img.shields.io/badge/TensorFlow.js-FF6F00?style=flat&logo=tensorflow&logoColor=white" alt="TensorFlow.js" />
-</p>
+<div align="center">
+  <h2 style="font-family: 'Arial', sans-serif; color: #2c3e50; font-size: 2em; border-bottom: 2px solid #3498db; padding-bottom: 5px;">Let's Connect!</h2>
+  <p style="font-family: 'Calibri', sans-serif; color: #7f8c8d; font-size: 1.1em; line-height: 1.6;">
+    I'm always open to connecting with fellow developers and tech enthusiasts. Feel free to reach out to me through any of the following platforms:
+  </p>
+  <a href="https://www.linkedin.com/in/achu-ajayan-49699722a/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="https://twitter.com/Achu46" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter">
+  </a>
+  <a href="https://www.instagram.com/achu._.ajayan/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
+  </a>
+  <a href="mailto:achutrajajayan46@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+  </a>
+</div>
 
----
-
-## 📈 GitHub Stats
-
-![Achu's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Achu46&show_icons=true&theme=radical)
-
----
-
-## 🏆 LeetCode Stats
-
-![LeetCode](https://leetcode-stats-six.vercel.app/api?username=Achu_46&theme=dark&border_radius=10)
-
----
-
-## 📌 Pinned Projects
-
-Here are some of my notable projects:
-
-- [**Call-Registry**](https://github.com/Achu46/Call-Registry): A Python-based application to manage call records.
-- [**E-Commerce**](https://github.com/Achu46/E-Commerce): A front-end project showcasing an e-commerce website using HTML, CSS, and JavaScript.
-- [**Password Generator**](https://github.com/Achu46/Password_Generator): A JavaScript tool to generate secure passwords.
-- [**Train Ticket Reservation**](https://github.com/Achu46/Train_Ticket_Reservation): A Java application for booking train tickets.
-- [**CRUD**](https://github.com/Achu46/CRUD): A JavaScript project demonstrating Create, Read, Update, and Delete operations.
-- [**Text Extract from PDF using ML**](https://github.com/Achu46/Text-extract-from-PDF-using-ML): A machine learning project to extract text from PDF files.
-
----
-
-## 💬 Let's Connect
-
-Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/mohamed-asfaque-a-7a2649299/) or check out my [portfolio website](https://achu.neocities.org/Portfolio/Mohamed_Asfaque.A/PORTFOLIO/).
-
----
-
-## 🖋️ Fun Fact
-
-- I love solving **coding challenges** on LeetCode and contributing to open-source projects.
-- I enjoy **building tools** that help make everyday tasks easier!
-
----
-
-## 📱 Follow Me
-
-- [Instagram](https://www.instagram.com/_achu_46_/)
-- [Twitter](https://twitter.com/_achu_46_)
-
----
-
-### 💡 _Let's build something amazing together!_  
+<div align="center">
+  <p style="font-family: 'Arial', sans-serif; color: #888; font-size: 0.9em;">
+    © 2024 Achu A. All rights reserved.
+  </p>
+</div>
