@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://github.com/Achu46">
-    <img src="https://avatars.githubusercontent.com/u/91871103?v=4" width="150" style="border-radius:50%; border: 2px solid #80ed99; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); transition: transform 0.3s ease-in-out;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'"/>
+    <img src="" width="150" style="border-radius:50%; border: 2px solid #80ed99; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); transition: transform 0.3s ease-in-out;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'"/>
   </a>
   <h1 style="font-family: 'Arial', sans-serif; color: #00463f; font-size: 2.5em; letter-spacing: 0.5px;">👋 Hello, I'm Achu!</h1>
   <p style="font-family: 'Verdana', sans-serif; color: #006400; font-size: 1.2em; font-weight: 400;">🎓 Aspiring Developer from Erode, India</p>
