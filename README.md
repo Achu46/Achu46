@@ -1,4 +1,4 @@
-# 👋 Hello, I'm Achu!
+# 👋 Hello, I'm **Achu**!  
 
 🎓 Aspiring Developer from Erode, India  
 🌐 Portfolio: [achu.neocities.org](https://achu.neocities.org/Portfolio/Mohamed_Asfaque.A/PORTFOLIO/)  
@@ -10,7 +10,7 @@
 
 ## 🚀 About Me
 
-I'm a passionate developer with a keen interest in building web applications and exploring new technologies. I enjoy solving problems and continuously learning to improve my skills. I specialize in creating intuitive and efficient solutions, and I love collaborating on projects that make a difference.
+I'm a passionate developer with a keen interest in building **web applications** and exploring new technologies. I enjoy solving problems, continuously learning, and improving my skills. I specialize in creating intuitive and efficient solutions, and I love collaborating on projects that make a difference. 
 
 ---
 
@@ -25,6 +25,9 @@ I'm a passionate developer with a keen interest in building web applications and
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white" alt="Node.js" />
   <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white" alt="VS Code" />
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white" alt="Flutter" />
+  <img src="https://img.shields.io/badge/TensorFlow.js-FF6F00?style=flat&logo=tensorflow&logoColor=white" alt="TensorFlow.js" />
 </p>
 
 ---
@@ -37,7 +40,7 @@ I'm a passionate developer with a keen interest in building web applications and
 
 ## 🏆 LeetCode Stats
 
-![LeetCode Stats](https://leetcode.card.workers.dev/?username=Achu_46)
+![LeetCode](https://leetcode-stats-six.vercel.app/api?username=Achu_46&theme=dark&border_radius=10)
 
 ---
 
@@ -54,10 +57,24 @@ Here are some of my notable projects:
 
 ---
 
-## 📫 How to Reach Me
+## 💬 Let's Connect
 
 Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/mohamed-asfaque-a-7a2649299/) or check out my [portfolio website](https://achu.neocities.org/Portfolio/Mohamed_Asfaque.A/PORTFOLIO/).
 
 ---
 
-*Let's build something amazing together!*
+## 🖋️ Fun Fact
+
+- I love solving **coding challenges** on LeetCode and contributing to open-source projects.
+- I enjoy **building tools** that help make everyday tasks easier!
+
+---
+
+## 📱 Follow Me
+
+- [Instagram](https://www.instagram.com/_achu_46_/)
+- [Twitter](https://twitter.com/_achu_46_)
+
+---
+
+### 💡 _Let's build something amazing together!_  
