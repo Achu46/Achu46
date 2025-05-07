@@ -37,7 +37,7 @@ I'm a passionate developer with a keen interest in building web applications and
 
 ## 🏆 LeetCode Stats
 
-![LeetCode](https://leetcode-stats-six.vercel.app/api?username=Achu_46&theme=dark&border_radius=10)
+![LeetCode]((https://leetcode.com/u/Achu_46/))
 
 ---
 
