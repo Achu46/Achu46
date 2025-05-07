@@ -39,7 +39,8 @@ I'm a passionate developer with a keen interest in building web applications and
 
 ## 🏆 LeetCode Stats
 
-![LeetCode Stats](https://leetcode.card.workers.dev/?username=Achu_46)
+![LeetCode](https://img.shields.io/badge/LeetCode-Achu_46-orange?style=for-the-badge&logo=leetcode)
+
 
 ---
 
