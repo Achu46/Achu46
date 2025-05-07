@@ -17,15 +17,15 @@ I'm a passionate developer with a keen interest in building web applications and
 ## 🛠️ Technologies & Tools
 
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=html5" alt="HTML" width="90" />
-    <img src="https://skillicons.dev/icons?i=css3" alt="CSS" width="90" />
+    <img src="https://skillicons.dev/icons?i=html5" alt="html" width="90" />
+    <img src="https://skillicons.dev/icons?i=css3" alt="css" width="90" />
     <img src="https://skillicons.dev/icons?i=javascript" alt="JavaScript" width="90" />
     <img src="https://skillicons.dev/icons?i=java" alt="Java" width="90" />
     <img src="https://skillicons.dev/icons?i=react" alt="React" width="90" />
     <img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" width="90" />
     <img src="https://skillicons.dev/icons?i=github" alt="GitHub" width="90" />
     <img src="https://skillicons.dev/icons?i=express" alt="Express.js" width="90" />
-    <img src="https://skillicons.dev/icons?i=springboot" alt="Spring Boot" width="90" />
+    <img src="https://skillicons.dev/icons?i=spring" alt="Spring Boot" width="90" />
 </p>
 
 
