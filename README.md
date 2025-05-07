@@ -17,8 +17,8 @@ I'm a passionate developer with a keen interest in building web applications and
 ## 🛠️ Technologies & Tools
 
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=html5" alt="html" width="90" />
-    <img src="https://skillicons.dev/icons?i=css3" alt="css" width="90" />
+    <img src="https://skillicons.dev/icons?i=html5" alt="Html" width="90" />
+    <img src="https://skillicons.dev/icons?i=css3" alt="Css" width="90" />
     <img src="https://skillicons.dev/icons?i=javascript" alt="JavaScript" width="90" />
     <img src="https://skillicons.dev/icons?i=java" alt="Java" width="90" />
     <img src="https://skillicons.dev/icons?i=react" alt="React" width="90" />
