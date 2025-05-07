@@ -10,21 +10,22 @@
 
 ## 🚀 About Me
 
-I'm a passionate developer with a keen interest in building web applications and exploring new technologies. I enjoy solving problems and continuously learning to improve my skills.
+I'm a passionate developer with a keen interest in building web applications and exploring new technologies. I enjoy solving problems and continuously learning to improve my skills. I specialize in creating intuitive and efficient solutions, and I love collaborating on projects that make a difference.
 
 ---
 
 ## 🛠️ Technologies & Tools
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+<p>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black" alt="React" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" alt="GitHub" />
+</p>
 
 ---
 
@@ -44,12 +45,12 @@ I'm a passionate developer with a keen interest in building web applications and
 
 Here are some of my notable projects:
 
-- [Call-Registry](https://github.com/Achu46/Call-Registry): A Python-based application to manage call records.
-- [E-Commerce](https://github.com/Achu46/E-Commerce): A front-end project showcasing an e-commerce website using HTML, CSS, and JavaScript.
-- [Password Generator](https://github.com/Achu46/Password_Generator): A JavaScript tool to generate secure passwords.
-- [Train Ticket Reservation](https://github.com/Achu46/Train_Ticket_Reservation): A Java application for booking train tickets.
-- [CRUD](https://github.com/Achu46/CRUD): A JavaScript project demonstrating Create, Read, Update, and Delete operations.
-- [Text Extract from PDF using ML](https://github.com/Achu46/Text-extract-from-PDF-using-ML): A machine learning project to extract text from PDF files.
+- [**Call-Registry**](https://github.com/Achu46/Call-Registry): A Python-based application to manage call records.
+- [**E-Commerce**](https://github.com/Achu46/E-Commerce): A front-end project showcasing an e-commerce website using HTML, CSS, and JavaScript.
+- [**Password Generator**](https://github.com/Achu46/Password_Generator): A JavaScript tool to generate secure passwords.
+- [**Train Ticket Reservation**](https://github.com/Achu46/Train_Ticket_Reservation): A Java application for booking train tickets.
+- [**CRUD**](https://github.com/Achu46/CRUD): A JavaScript project demonstrating Create, Read, Update, and Delete operations.
+- [**Text Extract from PDF using ML**](https://github.com/Achu46/Text-extract-from-PDF-using-ML): A machine learning project to extract text from PDF files.
 
 ---
 
