@@ -1,4 +1,4 @@
-# 👋 Hello, I'm Ach
+# 👋 Hello, I'm Achu
 
 🎓 **Aspiring Developer** from **Erode, India**  
 🌐 **Portfolio**: [achu.neocities.org](https://achu.neocities.org/Portfolio/Mohamed_Asfaque.A/PORTFOLIO/)  
