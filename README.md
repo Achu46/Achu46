@@ -18,14 +18,17 @@ I'm a passionate developer with a keen interest in building web applications and
 
 <p align="center">
    <img src="https://skillicons.dev/icons?i=html" alt="HTML" width="90" />
-  <img src="https://skillicons.dev/icons?i=css" alt="CSS" width="90" />
-    <img src="https://skillicons.dev/icons?i=javascript" alt="JavaScript" width="90" />
-    <img src="https://skillicons.dev/icons?i=java" alt="Java" width="90" />
-    <img src="https://skillicons.dev/icons?i=react" alt="React" width="90" />
-    <img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" width="90" />
-    <img src="https://skillicons.dev/icons?i=github" alt="GitHub" width="90" />
-    <img src="https://skillicons.dev/icons?i=express" alt="Express.js" width="90" />
-    <img src="https://skillicons.dev/icons?i=spring" alt="Spring Boot" width="90" />
+<img src="https://skillicons.dev/icons?i=css" alt="CSS" width="90" />
+<img src="https://skillicons.dev/icons?i=javascript" alt="JavaScript" width="90" />
+<img src="https://skillicons.dev/icons?i=java" alt="Java" width="90" />
+<img src="https://skillicons.dev/icons?i=react" alt="React" width="90" />
+<img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" width="90" />
+<img src="https://skillicons.dev/icons?i=express" alt="Express.js" width="90" />
+<img src="https://skillicons.dev/icons?i=spring" alt="Spring Boot" width="90" />
+<img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" width="90" />
+<img src="https://skillicons.dev/icons?i=git" alt="Git" width="90" />
+<img src="https://skillicons.dev/icons?i=github" alt="GitHub" width="90" />
+
 </p>
 
 
