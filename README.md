@@ -17,6 +17,8 @@ I'm a passionate developer with a keen interest in building web applications and
 ## 🛠️ Technologies & Tools
 
 <p align="center">
+  
+## 🧑🏻‍💻 Development Skills
 <img src="https://skillicons.dev/icons?i=html" alt="HTML" width="90" />
 <img src="https://skillicons.dev/icons?i=css" alt="CSS" width="90" />
 <img src="https://skillicons.dev/icons?i=javascript" alt="JavaScript" width="90" />
@@ -29,6 +31,16 @@ I'm a passionate developer with a keen interest in building web applications and
 <img src="https://skillicons.dev/icons?i=git" alt="Git" width="90" />
 <img src="https://skillicons.dev/icons?i=github" alt="GitHub" width="90" />
 <img src="https://skillicons.dev/icons?i=postman" alt="Postman" width="90" />
+
+## ⚙️ Tools and Platforms
+<img src="https://skillicons.dev/icons?i=vscode" alt="VS Code" width="90" />
+<img src="https://skillicons.dev/icons?i=intellij" alt="IntelliJ IDEA" width="90" />
+<img src="https://skillicons.dev/icons?i=eclipse" alt="Eclipse" width="90" />
+
+## ➕ Extra Platforms (Using UI Referance)
+<img src="https://img.icons8.com/color/96/chatgpt.png" alt="ChatGPT" width="90" />
+<img src="https://img.icons8.com/color/96/pinterest--v1.png" alt="Pinterest" width="90" />
+<img src="https://img.icons8.com/color/96/canva.png" alt="Canva" width="90" />
 
 </p>
 
