@@ -44,7 +44,7 @@ I'm a passionate developer with a keen interest in building web applications and
 </div>
 
 <!-- ➕ Extra Platforms (Using UI Reference) -->
-<h2>➕ Extra Platforms (Using UI Reference)</h2>
+<h2>➕ Extra Platforms (For UI Reference)</h2>
 <div style="display: flex; flex-wrap: wrap; gap: 15px;">
   <img src="https://img.icons8.com/color/96/chatgpt.png" alt="ChatGPT" width="90" />
   <img src="https://img.icons8.com/color/96/pinterest--v1.png" alt="Pinterest" width="90" />
