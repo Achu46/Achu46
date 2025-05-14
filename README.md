@@ -18,29 +18,38 @@ I'm a passionate developer with a keen interest in building web applications and
 
 <p align="center">
   
-## 🧑🏻‍💻 Development Skills
-<img src="https://skillicons.dev/icons?i=html" alt="HTML" width="90" />
-<img src="https://skillicons.dev/icons?i=css" alt="CSS" width="90" />
-<img src="https://skillicons.dev/icons?i=javascript" alt="JavaScript" width="90" />
-<img src="https://skillicons.dev/icons?i=java" alt="Java" width="90" />
-<img src="https://skillicons.dev/icons?i=react" alt="React" width="90" />
-<img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" width="90" />
-<img src="https://skillicons.dev/icons?i=express" alt="Express.js" width="90" />
-<img src="https://skillicons.dev/icons?i=spring" alt="Spring Boot" width="90" />
-<img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" width="90" />
-<img src="https://skillicons.dev/icons?i=git" alt="Git" width="90" />
-<img src="https://skillicons.dev/icons?i=github" alt="GitHub" width="90" />
-<img src="https://skillicons.dev/icons?i=postman" alt="Postman" width="90" />
+<!-- 🧑🏻‍💻 Development Skills -->
+<h2>🧑🏻‍💻 Development Skills</h2>
+<div style="display: flex; flex-wrap: wrap; gap: 15px;">
+  <img src="https://skillicons.dev/icons?i=html" alt="HTML" width="90" />
+  <img src="https://skillicons.dev/icons?i=css" alt="CSS" width="90" />
+  <img src="https://skillicons.dev/icons?i=javascript" alt="JavaScript" width="90" />
+  <img src="https://skillicons.dev/icons?i=java" alt="Java" width="90" />
+  <img src="https://skillicons.dev/icons?i=react" alt="React" width="90" />
+  <img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" width="90" />
+  <img src="https://skillicons.dev/icons?i=express" alt="Express.js" width="90" />
+  <img src="https://skillicons.dev/icons?i=spring" alt="Spring Boot" width="90" />
+  <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" width="90" />
+  <img src="https://skillicons.dev/icons?i=git" alt="Git" width="90" />
+  <img src="https://skillicons.dev/icons?i=github" alt="GitHub" width="90" />
+  <img src="https://skillicons.dev/icons?i=postman" alt="Postman" width="90" />
+</div>
 
-## ⚙️ Tools and Platforms
-<img src="https://skillicons.dev/icons?i=vscode" alt="VS Code" width="90" />
-<img src="https://skillicons.dev/icons?i=intellij" alt="IntelliJ IDEA" width="90" />
-<img src="https://skillicons.dev/icons?i=eclipse" alt="Eclipse" width="90" />
+<!-- ⚙️ Tools and Platforms -->
+<h2>⚙️ Tools and Platforms</h2>
+<div style="display: flex; flex-wrap: wrap; gap: 15px;">
+  <img src="https://skillicons.dev/icons?i=vscode" alt="VS Code" width="90" />
+  <img src="https://skillicons.dev/icons?i=idea" alt="IntelliJ IDEA" width="90" />
+  <img src="https://skillicons.dev/icons?i=eclipse" alt="Eclipse" width="90" />
+</div>
 
-## ➕ Extra Platforms (Using UI Referance)
-<img src="https://img.icons8.com/color/96/chatgpt.png" alt="ChatGPT" width="90" />
-<img src="https://img.icons8.com/color/96/pinterest--v1.png" alt="Pinterest" width="90" />
-<img src="https://img.icons8.com/color/96/canva.png" alt="Canva" width="90" />
+<!-- ➕ Extra Platforms (Using UI Reference) -->
+<h2>➕ Extra Platforms (Using UI Reference)</h2>
+<div style="display: flex; flex-wrap: wrap; gap: 15px;">
+  <img src="https://img.icons8.com/color/96/chatgpt.png" alt="ChatGPT" width="90" />
+  <img src="https://img.icons8.com/color/96/pinterest--v1.png" alt="Pinterest" width="90" />
+  <img src="https://img.icons8.com/color/96/canva.png" alt="Canva" width="90" />
+</div>
 
 </p>
 
