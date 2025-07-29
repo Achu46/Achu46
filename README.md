@@ -26,7 +26,7 @@ I'm a passionate developer with a keen interest in building web applications and
   <img src="https://skillicons.dev/icons?i=javascript" alt="JavaScript" width="90" />
   <img src="https://skillicons.dev/icons?i=java" alt="Java" width="90" />
   <img src="https://skillicons.dev/icons?i=react" alt="React" width="90" />
-  <img src="https://raw.githubusercontent.com/react-native-community/website/master/website/static/img/logo-og.png" alt="React Native" width="90" />
+  <img src="https://skillicons.dev/icons?i=react" alt="React Native" width="90" />
   <img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" width="90" />
   <img src="https://skillicons.dev/icons?i=express" alt="Express.js" width="90" />
   <img src="https://skillicons.dev/icons?i=spring" alt="Spring Boot" width="90" />
