@@ -33,7 +33,9 @@ I'm a passionate developer with a keen interest in building web applications and
   <img src="https://skillicons.dev/icons?i=git" alt="Git" width="90" />
   <img src="https://skillicons.dev/icons?i=github" alt="GitHub" width="90" />
   <img src="https://skillicons.dev/icons?i=postman" alt="Postman" width="90" />
+  <img src="https://skillicons.dev/icons?i=firebase" alt="Firebase" width="90" />
 </div>
+
 
 <!-- ⚙️ Tools and Platforms -->
 <h2>⚙️ Tools and Platforms</h2>
