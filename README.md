@@ -75,7 +75,7 @@ Here are some of my notable projects:
 
 - [**Call-Registry**](https://github.com/Achu46/Call-Registry): A Python-based application to manage call records.
 - [**E-Commerce**](https://github.com/Achu46/E-Commerce): A front-end project showcasing an e-commerce website using HTML, CSS, and JavaScript.
-- [**Password Generator**](https://github.com/Achu46/Password_Generator): A JavaScript tool to generate secure passwords.
+- [**Goal-List-Mobile-App**]((https://github.com/Achu46/Goal-List-Mobile-App)): A React Native Mobile app used to track your Goals. 
 - [**Train Ticket Reservation**](https://github.com/Achu46/Train_Ticket_Reservation): A Java application for booking train tickets.
 - [**CRUD**](https://github.com/Achu46/CRUD): A JavaScript project demonstrating Create, Read, Update, and Delete operations.
 - [**Text Extract from PDF using ML**](https://github.com/Achu46/Text-extract-from-PDF-using-ML): A machine learning project to extract text from PDF files.
