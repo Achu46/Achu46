@@ -2,10 +2,8 @@
 
 🎓 **Aspiring Developer** from **Erode, India**  
 💼 **LinkedIn**: [mohamed-asfaque-a-7a2649299](https://www.linkedin.com/in/mohamed-asfaque-a-7a2649299/)  
-
 💻 **LeetCode**: [Achu_46](https://leetcode.com/u/Achu_46/)  
 📸 **Instagram**: [@_achu_46_](https://www.instagram.com/_achu_46_/)  
-
 🌐 **Portfolio**: [mohamed-asfaque-portfolio.vercel.app](https://mohamed-asfaque-portfolio.vercel.app/)
 
 ---
