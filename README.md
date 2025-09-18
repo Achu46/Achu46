@@ -39,6 +39,8 @@ I'm a passionate developer with a keen interest in building web applications and
 <img src="https://skillicons.dev/icons?i=postman" alt="Postman" width="90" />
 <img src="https://skillicons.dev/icons?i=firebase" alt="Firebase" width="90" />
 <img src="https://skillicons.dev/icons?i=tensorflow" alt="TensorFlow" width="90" />
+<img src="https://skillicons.dev/icons?i=aws" alt="AWS" width="90" />
+
 </div>
 
 
