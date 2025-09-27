@@ -30,7 +30,7 @@ I'm a passionate developer with a keen interest in building web applications and
 <img src="https://skillicons.dev/icons?i=react" alt="React" width="90" />
 <img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" width="90" />
 <img src="https://skillicons.dev/icons?i=express" alt="Express.js" width="90" />
-<img src="https://skillicons.dev/icons?i=spring" alt="Spring Boot" width="90" />
+<!-- <img src="https://skillicons.dev/icons?i=spring" alt="Spring Boot" width="90" /> -->
 <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" width="90" />
 <img src="https://skillicons.dev/icons?i=bootstrap" alt="Bootstrap" width="90" />
 <img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" width="90" />
