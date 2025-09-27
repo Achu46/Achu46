@@ -92,7 +92,7 @@ Here are some of my notable projects:
 
 ## 📫 How to Reach Me
 
-Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/mohamed-asfaque-a-7a2649299/) or check out my [portfolio website](https://achu.neocities.org/Portfolio/Mohamed_Asfaque.A/PORTFOLIO/).
+Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/mohamed-asfaque-a-7a2649299/) or check out my [portfolio website](https://mohamed-asfaque-portfolio.vercel.app/).
 
 ---
 
