@@ -47,8 +47,10 @@ I'm a passionate developer with a keen interest in building web applications and
 <h2>⚙️ Tools and Platforms</h2>
 <div style="display: flex; flex-wrap: wrap; gap: 15px;">
   <img src="https://skillicons.dev/icons?i=vscode" alt="VS Code" width="90" />
-  <img src="https://skillicons.dev/icons?i=idea" alt="IntelliJ IDEA" width="90" />
-  <img src="https://skillicons.dev/icons?i=eclipse" alt="Eclipse" width="90" />
+<img src="https://skillicons.dev/icons?i=idea" alt="IntelliJ IDEA" width="90" />
+<img src="https://skillicons.dev/icons?i=eclipse" alt="Eclipse" width="90" />
+<img src="https://skillicons.dev/icons?i=mysql" alt="phpMyAdmin" width="90" />
+
 </div>
 
 <!-- ➕ Extra Platforms (Using UI Reference) -->
