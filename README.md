@@ -1,99 +1,126 @@
-# 👋 Hello, I'm Achu!
-
-🎓 **Aspiring Developer** from **Erode, India**  
-💼 **LinkedIn**: [mohamed-asfaque-a-7a2649299](https://www.linkedin.com/in/mohamed-asfaque-a-7a2649299/)  
-💻 **LeetCode**: [Achu_46](https://leetcode.com/u/Achu_46/)  
-📸 **Instagram**: [@_achu_46_](https://www.instagram.com/_achu_46_/)  
-🌐 **Portfolio**: [mohamed-asfaque-portfolio.vercel.app](https://mohamed-asfaque-portfolio.vercel.app/)
-
----
-
-## 🚀 About Me
-
-I'm a passionate developer with a keen interest in building web applications and exploring new technologies. I enjoy solving problems and continuously learning to improve my skills. I specialize in creating intuitive and efficient solutions, and I love collaborating on projects that make a difference.
-
----
-
-## 🛠️ Technologies & Tools
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Achu+%F0%9F%91%8B;Aspiring+Developer+from+Erode%2C+India;I+love+building+cool+web+apps;Welcome+to+my+profile+%E2%9C%A8" alt="Typing SVG" />
+</h1>
 
 <p align="center">
-  
-<!-- 🧑🏻‍💻 Development Skills -->
-<h2>🧑🏻‍💻 Development Skills</h2>
-<div style="display: flex; flex-wrap: wrap; gap: 15px;">
-<div>
-  <img src="https://skillicons.dev/icons?i=html" alt="HTML" width="90" />
-  <img src="https://skillicons.dev/icons?i=css" alt="CSS" width="90" />
-  <img src="https://skillicons.dev/icons?i=javascript" alt="JavaScript" width="90" />
-  <img src="https://skillicons.dev/icons?i=java" alt="Java" width="90" />
-  <img src="https://skillicons.dev/icons?i=python" alt="Python" width="90" />
-  <img src="https://skillicons.dev/icons?i=react" alt="React" width="90" />
-  <img src="https://skillicons.dev/icons?i=nextjs" alt="Next.js" width="90" />
-  <img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" width="90" />
-  <img src="https://skillicons.dev/icons?i=express" alt="Express.js" width="90" />
-  <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" width="90" />
-  <img src="https://skillicons.dev/icons?i=bootstrap" alt="Bootstrap" width="90" />
-  <img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" width="90" />
-  <img src="https://skillicons.dev/icons?i=git" alt="Git" width="90" />
-  <img src="https://skillicons.dev/icons?i=github" alt="GitHub" width="90" />
-  <img src="https://skillicons.dev/icons?i=postman" alt="Postman" width="90" />
-  <img src="https://skillicons.dev/icons?i=firebase" alt="Firebase" width="90" />
-</div>
-
-
-
-
-<!-- ⚙️ Tools and Platforms -->
-<h2>⚙️ Tools and Platforms</h2>
-<div style="display: flex; flex-wrap: wrap; gap: 15px;">
-  <img src="https://skillicons.dev/icons?i=vscode" alt="VS Code" width="90" />
-<img src="https://skillicons.dev/icons?i=idea" alt="IntelliJ IDEA" width="90" />
-<img src="https://skillicons.dev/icons?i=eclipse" alt="Eclipse" width="90" />
-<img src="https://skillicons.dev/icons?i=mysql" alt="phpMyAdmin" width="90" />
-
-</div>
-
-<!-- ➕ Extra Platforms (Using UI Reference) -->
-<h2>➕ Extra Platforms (For UI Reference)</h2>
-<div style="display: flex; flex-wrap: wrap; gap: 15px;">
-  <img src="https://img.icons8.com/color/96/pinterest--v1.png" alt="Pinterest" width="90" />
-  <img src="https://img.icons8.com/color/96/canva.png" alt="Canva" width="90" />
-</div>
-
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Achu%20%7C%20Full%20Stack%20Developer&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
 </p>
 
+<p align="center">
+  <a href="https://www.linkedin.com/in/mohamed-asfaque-a-7a2649299/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://leetcode.com/u/Achu_46/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
+  <a href="https://www.instagram.com/_achu_46_/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+  <a href="https://mohamed-asfaque-portfolio.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Achu46&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
+</p>
 
 ---
 
-## 📈 GitHub Stats
+### 🚀 About Me
 
-![Achu's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Achu46&show_icons=true&theme=radical)
+```yaml
+name: Mohamed Asfaque (Achu)
+role: Aspiring Developer
+location: Erode, India
+focus: Building intuitive & efficient web applications
+currently: Exploring new technologies and solving problems
+fun_fact: I turn coffee into code ☕➡️💻
+```
 
----
+<img align="right" width="380" src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gif3.gif" />
 
-## 🏆 LeetCode Stats
+- 🔭 I'm currently working on exciting **web development** projects
+- 🌱 I'm continuously learning new frameworks and tools
+- ⚡ I enjoy solving problems on **LeetCode**
+- 🤝 I love collaborating on projects that make a difference
+- 📫 Reach me on **LinkedIn** — link above!
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/Achu_46?theme=dark&font=Baloo&ext=contest)
-
----
-
-## 📌 Pinned Projects
-
-Here are some of my notable projects:
-
-- [**Call-Registry**](https://github.com/Achu46/Call-Registry): A Python-based application to manage call records.
-- [**E-Commerce**](https://github.com/Achu46/E-Commerce): A front-end project showcasing an e-commerce website using HTML, CSS, and JavaScript.
-- [**Goal-List-Mobile-App**](https://github.com/Achu46/Goal-List-Mobile-App): A React Native Mobile app used to track your Goals. 
-- [**Train Ticket Reservation**](https://github.com/Achu46/Train_Ticket_Reservation): A Java application for booking train tickets.
-- [**CRUD**](https://github.com/Achu46/CRUD): A JavaScript project demonstrating Create, Read, Update, and Delete operations.
-- [**Text Extract from PDF using ML**](https://github.com/Achu46/Text-extract-from-PDF-using-ML): A machine learning project to extract text from PDF files.
+<br clear="right"/>
 
 ---
 
-## 📫 How to Reach Me
+### 🛠️ Tech Stack
 
-Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/mohamed-asfaque-a-7a2649299/) or check out my [portfolio website](https://mohamed-asfaque-portfolio.vercel.app/).
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,java,python,react,nextjs,nodejs,express,mongodb,mysql,firebase,bootstrap,git,github,postman,vscode,idea,eclipse" />
+</p>
+
+<p align="center">
+  <img src="https://img.icons8.com/color/96/pinterest--v1.png" width="45" title="Pinterest (UI Reference)" />
+  <img src="https://img.icons8.com/color/96/canva.png" width="45" title="Canva (UI Reference)" />
+</p>
 
 ---
 
-*Let's build something amazing together!*
+### 📊 GitHub Stats
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Achu46&show_icons=true&theme=radical&border_radius=10&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Achu46&layout=compact&theme=radical&border_radius=10&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Achu46&theme=radical&border_radius=10&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Achu46&theme=react-dark&hide_border=true&area=true" width="95%" />
+</p>
+
+---
+
+### 🏆 LeetCode Stats
+
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/Achu_46?theme=dark&font=Baloo&ext=contest" />
+</p>
+
+---
+
+### 📌 Pinned Projects
+
+<p align="center">
+  <a href="https://github.com/Achu46/Call-Registry">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Achu46&repo=Call-Registry&theme=radical&border_radius=10&hide_border=true" />
+  </a>
+  <a href="https://github.com/Achu46/E-Commerce">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Achu46&repo=E-Commerce&theme=radical&border_radius=10&hide_border=true" />
+  </a>
+</p>
+<p align="center">
+  <a href="https://github.com/Achu46/Goal-List-Mobile-App">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Achu46&repo=Goal-List-Mobile-App&theme=radical&border_radius=10&hide_border=true" />
+  </a>
+  <a href="https://github.com/Achu46/Train_Ticket_Reservation">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Achu46&repo=Train_Ticket_Reservation&theme=radical&border_radius=10&hide_border=true" />
+  </a>
+</p>
+<p align="center">
+  <a href="https://github.com/Achu46/CRUD">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Achu46&repo=CRUD&theme=radical&border_radius=10&hide_border=true" />
+  </a>
+  <a href="https://github.com/Achu46/Text-extract-from-PDF-using-ML">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Achu46&repo=Text-extract-from-PDF-using-ML&theme=radical&border_radius=10&hide_border=true" />
+  </a>
+</p>
+
+---
+
+### 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
+</p>
+
+> 💡 To make the snake animation work on your own profile, add this GitHub Action: https://github.com/Platane/snk — it auto-generates the SVG above from your real contribution graph.
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" />
+</p>
+
+<h3 align="center">✨ Let's build something amazing together! ✨</h3>
